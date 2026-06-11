@@ -1,0 +1,28 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Outputs (large generated files)
+group1-syllabus-generator/outputs/
+group1-syllabus-generator/logs/
+group2-mapping-sequencer/mapping_sequencer.db
+group2-mapping-sequencer/data/classifier.pkl
+
+# Model cache
+.cache/
+*.safetensors
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini

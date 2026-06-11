@@ -1,0 +1,33 @@
+{
+  "remember": [
+    "define","list","recall","recognize","identify","name","state",
+    "match","label","reproduce","memorize","repeat","record","outline"
+  ],
+  "understand": [
+    "explain","describe","summarize","classify","compare","interpret",
+    "paraphrase","discuss","illustrate","restate","understand","convert",
+    "estimate","predict","translate","exemplify","infer"
+  ],
+  "apply": [
+    "apply","solve","demonstrate","use","compute","execute","implement",
+    "calculate","show","sketch","optimize","utilize","operate","simulate",
+    "derive","debug","trace","configure","modify","prepare","complete",
+    "examine","change"
+  ],
+  "analyze": [
+    "analyze","differentiate","examine","breakdown","compare","contrast",
+    "distinguish","inspect","categorize","test","deconstruct","relate",
+    "diagram","separate","investigate","detect","profile","organize"
+  ],
+  "evaluate": [
+    "evaluate","justify","critique","assess","judge","defend","argue",
+    "prioritize","recommend","appraise","validate","benchmark","rank",
+    "measure","monitor","verify","select","conclude","determine"
+  ],
+  "create": [
+    "create","design","develop","construct","formulate","plan","produce",
+    "generate","compose","build","synthesize","propose","devise","invent",
+    "assemble","compile","model","integrate","organize","revise","write",
+    "draft","engineer","establish","initiate"
+  ]
+}
